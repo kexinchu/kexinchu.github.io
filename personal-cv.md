@@ -3,7 +3,7 @@
 姓名：储可新  
 电话：15755152633  
 邮箱：1649158185@qq.com  
-![证件照](https://github.com/kexinchu/personal-Information/blob/dbaeac984c776356adfe6535cffb7f117a1d0aaa/pictures/2-inch_ID_photo.jpg)
+![证件照](https://github.com/kexinchu/personal-Information/blob/dbaeac984c776356adfe6535cffb7f117a1d0aaa/pictures/2-inch_ID_photo.jpg =350)
 
 #### 技术栈
 - 了解SDN、NFV相关等技术，熟悉通用虚拟化，网络虚拟化技术并对虚拟网络的管控面和数据面有较深的理解。
