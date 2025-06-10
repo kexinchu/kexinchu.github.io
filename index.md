@@ -24,19 +24,15 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 
 ## 📄 Selected Publications
 
-- **MCaM: Efficient LLM Inference  with Multi-tier KV Cache Management**
-  _to appear at ICDCS'2025_
+- **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**  
+  🔹 *To appear at ICDCS'2025*
 
-- **SafeKV: Safe KV-Cache Sharing in LLM Serving**
-  _to appear at MLArhSys'2025|ISCA'2025_
+- **SafeKV: Safe KV-Cache Sharing in LLM Serving**  
+  🔹 *To appear at MLArhSys'2025 | ISCA'2025*
 
 - **CaR: An Efficient KV Cache Reuse System for Large Language Model Inference**  
-  _[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)_
-  _LG-ARC'2024|ISCA'2024_
-
-- **CNT-Cache: An energy-efficient carbon nanotube cache with adaptive encoding**
-  _[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:u5HHmVD_uO8C)_
-  _DATE'2020_
+  🔗 [link](hhttps://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)  
+  🔹 *LG-ARC'2024 | ISCA'2024*
 ---
 
 ## 🎓 Education
