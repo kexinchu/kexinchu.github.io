@@ -3,9 +3,9 @@ layout: default
 title: "Kexin Chu | Academic Homepage"
 ---
 
-# 👋 Welcome to the Homepage of **Kexin Chu**
+# 👋 Welcome to the Homepage of <span style="color:#c0392b"><b>Kexin Chu</b></span>
 
-Ph.D. student at University of Connecticut, focusing on **machine learning systems**, **LLM infra**, **System Security**, and **Disaggregated Memory**. I am passionate about building efficient and secure infrastructures for large-scale AI models, particularly in KV-cache sharing, memory-aware scheduling, and RDMA-based systems.
+Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae60"><b>Machine Learning Systems</b></span>, <span style="color:#27ae60"><b>LLM infra</b></span>, <span style="color:#27ae60"><b>System Security</b></span>, and <span style="color:#27ae60"><b>Disaggregated Memory</b></span>. I am passionate about building efficient and secure infrastructures for large-scale AI models, particularly in KV-cache sharing, memory-aware scheduling, and RDMA-based systems.
 
 📍 Currently based in Connecticut, USA.  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=ZIdS3d0AAAAJ&hl=en) | [GitHub](https://github.com/kexinchu) | kexin.chu@uconn.edu
@@ -25,18 +25,18 @@ Ph.D. student at University of Connecticut, focusing on **machine learning syste
 ## 📄 Selected Publications
 
 - **MCaM: Efficient LLM Inference  with Multi-tier KV Cache Management**
-    _to appear at ICDCS'2025_
+  _to appear at ICDCS'2025_
 
 - **SafeKV: Safe KV-Cache Sharing in LLM Serving**
-    _to appear at MLArhSys'2025|ISCA'2025_
+  _to appear at MLArhSys'2025|ISCA'2025_
 
 - **CaR: An Efficient KV Cache Reuse System for Large Language Model Inference**  
   _[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)_
   _LG-ARC'2024|ISCA'2024_
 
 - **CNT-Cache: An energy-efficient carbon nanotube cache with adaptive encoding**
-    _[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:u5HHmVD_uO8C)_
-    _DATE'2020_
+  _[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:u5HHmVD_uO8C)_
+  _DATE'2020_
 ---
 
 ## 🎓 Education
@@ -55,8 +55,7 @@ Ph.D. student at University of Connecticut, focusing on **machine learning syste
 ## 💼 Industry Experience
 
 **Baidu Inc., Beijing, China**  
-*Software Architect & Backend Engineer (2020–2024)*
-
+_Software Architect & Backend Engineer (2020–2024)_
 - Worked in the Search R&D Platform department, focusing on large-scale backend systems.
 - Promoted from T3 → T4 in 2021, and T4 → T5 in 2023 for top-tier performance.
 - Key areas of work included:
