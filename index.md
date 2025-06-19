@@ -27,6 +27,9 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 - **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**  
   🔹 *To appear at ICDCS'2025*
 
+- **DynaMoE : An Algorithm-System Co-Design for Fast MoE Serving**  
+  🔹 *under reviewing at ICDE'2026*
+
 - **SafeKV: Safe KV-Cache Sharing in LLM Serving**  
   🔹 *To appear at MLArhSys'2025 | ISCA'2025*
 
