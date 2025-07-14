@@ -24,7 +24,7 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 
 ## 📄 Selected Publications
 
-- **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**
+- **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**    
   🔗 [link](https://github.com/kexinchu/kexinchu.github.io/blob/main/MultiTier_KVCache_ICDCS_CameraReady_2025.pdf);    
   🔹 *To appear at ICDCS'2025*
 
