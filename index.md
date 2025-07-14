@@ -40,7 +40,7 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
   🔹 *MLArhSys'2025 | ISCA'2025*
 
 - **CaR: An Efficient KV Cache Reuse System for Large Language Model Inference**  
-  🔗 [link](hhttps://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)   
+  🔗 [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)   
   🔹 *LG-ARC'2024 | ISCA'2024*
 ---
 
