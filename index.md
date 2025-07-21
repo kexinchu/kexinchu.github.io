@@ -8,7 +8,11 @@ title: "Kexin Chu | Academic Homepage"
 Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae60"><b>Machine Learning Systems</b></span>, <span style="color:#27ae60"><b>LLM infra</b></span>, <span style="color:#27ae60"><b>System Security</b></span>, and <span style="color:#27ae60"><b>Disaggregated Memory</b></span>. I am passionate about building efficient and secure infrastructures for large-scale AI models, particularly in KV-cache sharing, memory-aware scheduling, and RDMA-based systems.
 
 📍 Currently based in Connecticut, USA.  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=ZIdS3d0AAAAJ&hl=en) | [GitHub](https://github.com/kexinchu) | kexin.chu@uconn.edu
+🔗 [Google Scholar](https://scholar.google.com/citations?user=ZIdS3d0AAAAJ&hl=en) | [GitHub](https://github.com/kexinchu) | 📬 kexin.chu@uconn.edu
+
+<p style="color:#2c3e50; font-size: 16px;">
+  💡 I am always open to collaboration! If you’re a student or researcher interested in MLSys, Multi-Agent, Disaggregated Memory or Security, feel free to reach out — let’s build something exciting together!
+</p>
 
 ---
 
@@ -18,29 +22,29 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 - Efficient ML Systems
 - Security in ML systems
 - RDMA and memory-tiered systems
-- CXL
+- Compute Express Link (CXL)
 
 ---
 
 ## 📄 Selected Publications
 
 - **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**    
-  🔗 [link](https://github.com/kexinchu/kexinchu.github.io/blob/main/MultiTier_KVCache_ICDCS_CameraReady_2025.pdf);    
+  🔗 [PDF](https://github.com/kexinchu/kexinchu.github.io/blob/main/MultiTier_KVCache_ICDCS_CameraReady_2025.pdf);    
   🔹 *To appear at ICDCS'2025*
 
 - **DynaMoE : An Algorithm-System Co-Design for Fast MoE Serving**  
   🔹 *under reviewing at ICDE'2026*
 
 - **eInfer: Unlocking Fine-Grained Tracing for Distributed LLM Inference with eBPF**   
-  🔗 [link](https://github.com/kexinchu/kexinchu.github.io/blob/main/eBPF_GPU_Workshop_SIGCOMM_Submission_2025.pdf);     
+  🔗 [PDF](https://github.com/kexinchu/kexinchu.github.io/blob/main/eBPF_GPU_Workshop_SIGCOMM_Submission_2025.pdf);     
   🔹 *3rd Workshop on eBPF and Kernel Extensions (eBPF'25)*
 
 - **SafeKV: Safe KV-Cache Sharing in LLM Serving**   
-  🔗 [link](https://openreview.net/pdf?id=jhDsbd5eXL#:~:text=In%20SafeKV's%20architecture%2C%20a%20hash,inference%20while%20ensuring%20privacy%20isolation.);    [Presentation](https://www.youtube.com/watch?v=SJqN4HY1HKQ)   
+  🔗 [Paper](https://openreview.net/pdf?id=jhDsbd5eXL#:~:text=In%20SafeKV's%20architecture%2C%20a%20hash,inference%20while%20ensuring%20privacy%20isolation.);    [Presentation](https://www.youtube.com/watch?v=SJqN4HY1HKQ)   
   🔹 *MLArhSys'2025 | ISCA'2025*
 
 - **CaR: An Efficient KV Cache Reuse System for Large Language Model Inference**  
-  🔗 [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)   
+  🔗 [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZIdS3d0AAAAJ&citation_for_view=ZIdS3d0AAAAJ:9yKSN-GCB0IC)   
   🔹 *LG-ARC'2024 | ISCA'2024*
 ---
 
@@ -62,10 +66,10 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 **Baidu Inc., Beijing, China**  
 _Software Architect & Backend Engineer (2020–2024)_
 - Worked in the Search R&D Platform department, focusing on large-scale backend systems.
-- Promoted from T3 → T4 in 2021, and T4 → T5 in 2023 for top-tier performance.
+- Promoted from T3 → T4 in 2021, and T4 → T5 in 2023 for outstanding performance.
 - Key areas of work included:
-    - DeepQA Web Services using C++/brpc for search applications with high traffic.
-    - LLM Access Control Systems supporting Ernie Bot user management (Golang, Redis, MySQL).
+    - Developed DeepQA Web Services (C++/brpc) for large-scale search.
+    - Built LLM Access Control Systems for Ernie Bot/WenXinYiYan(文心一言) (Golang, Redis, MySQL)
     - Real-Time Streaming Systems for indexing and ingesting large-scale data (Kafka-based).
 
 ---
