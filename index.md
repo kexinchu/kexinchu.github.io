@@ -29,14 +29,17 @@ Ph.D. student at University of Connecticut, focusing on <span style="color:#27ae
 ## 📄 Selected Publications
 
 - **MCaM: Efficient LLM Inference with Multi-tier KV Cache Management**    
-  🔗 [PDF](https://github.com/kexinchu/kexinchu.github.io/blob/main/MultiTier_KVCache_ICDCS_CameraReady_2025.pdf);    
-  🔹 *To appear at ICDCS'2025*
+  🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/11183741);    
+  🔹 *2025 IEEE International Conference on Distributed Computing Systems (ICDCS)*
 
 - **DynaMoE : An Algorithm-System Co-Design for Fast MoE Serving**  
-  🔹 *under reviewing at ICDE'2026*
+  🔹 *under reviewing at IPDPS'2026*
 
-- **eInfer: Unlocking Fine-Grained Tracing for Distributed LLM Inference with eBPF**   
-  🔗 [PDF](https://github.com/kexinchu/kexinchu.github.io/blob/main/eBPF_GPU_Workshop_SIGCOMM_Submission_2025.pdf);     
+- **Selective KV-Cache Sharing to Mitigate Timing Side-Channels in LLM Inference**  
+  🔗 [PDF](https://arxiv.org/abs/2508.08438);    
+
+- **eInfer: Unlocking Fine-Grained Tracing for Distributed LLM Inference with eBPF**     
+  🔗 [PDF](https://dl.acm.org/doi/abs/10.1145/3748355.3748372);     
   🔹 *3rd Workshop on eBPF and Kernel Extensions (eBPF'25)*
 
 - **SafeKV: Safe KV-Cache Sharing in LLM Serving**   
