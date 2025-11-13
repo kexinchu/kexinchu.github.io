@@ -158,6 +158,7 @@ title: "Kexin Chu | Academic Homepage"
   <a href="#education">Education</a>
   <a href="#awards">Awards</a>
   <a href="#skills">Skills</a>
+  <a href="CV_Kexin_Chu_Academic_RA.pdf" target="_blank">CV</a>
 </div>
 
 <div class="profile-header" id="about">
@@ -173,6 +174,7 @@ title: "Kexin Chu | Academic Homepage"
       <a href="https://scholar.google.com/citations?user=ZIdS3d0AAAAJ&hl=en" target="_blank">📚 Google Scholar</a>
       <a href="https://github.com/kexinchu" target="_blank">💻 GitHub</a>
       <a href="mailto:kexin.chu@uconn.edu">📧 Email</a>
+      <a href="CV_Kexin_Chu_Academic_RA.pdf" target="_blank">📄 CV</a>
     </div>
   </div>
 </div>
@@ -230,10 +232,11 @@ title: "Kexin Chu | Academic Homepage"
 </div>
 
 <div class="pub-item">
-  <h3 style="color: #2c3e50; margin-top: 0;">DynaMoE: An Algorithm-System Co-Design for Fast MoE Serving</h3>
-  <span class="badge" style="background: #f39c12;">Under Review</span>
-  <span class="badge">IPDPS 2026</span>
-  <p style="margin: 10px 0; color: #555;">Novel co-design approach for efficient Mixture-of-Experts model serving.</p>
+  <h3 style="color: #2c3e50; margin-top: 0;">ExpertFlow: Adaptive Expert Scheduling and Memory Coordination for Efficient MoE Inference</h3>
+  <span class="badge">arXiv</span>
+  <span class="badge" style="background: #27ae60;">MoE Systems</span>
+  <p style="margin: 10px 0; color: #555;">Runtime system for MoE inference that combines adaptive expert prefetching and cache-aware routing to optimize inference under memory constraints.</p>
+  <a href="https://arxiv.org/abs/2510.26730" style="color: #667eea; text-decoration: none;">📄 Read Paper →</a>
 </div>
 
 <div class="pub-item">
