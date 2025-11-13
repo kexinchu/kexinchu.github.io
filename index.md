@@ -158,7 +158,6 @@ title: "Kexin Chu | Academic Homepage"
   <a href="#education">Education</a>
   <a href="#awards">Awards</a>
   <a href="#skills">Skills</a>
-  <a href="CV_Kexin_Chu_Academic_RA.pdf" target="_blank">CV</a>
 </div>
 
 <div class="profile-header" id="about">
