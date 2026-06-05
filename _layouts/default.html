@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  </head>
+  <body class="site-body">
+    <div class="site-background"></div>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand-mark" href="{{ '/' | relative_url }}">
+          <span class="brand-name">Kexin Chu</span>
+          <span class="brand-subtitle">Systems Researcher</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a class="nav-link{% if page.nav == 'focus' %} is-active{% endif %}" href="{{ '/focus/' | relative_url }}">Focus</a>
+          <a class="nav-link{% if page.nav == 'latest' %} is-active{% endif %}" href="{{ '/latest/' | relative_url }}">Latest</a>
+          <a class="nav-link{% if page.nav == 'publications' %} is-active{% endif %}" href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a class="nav-link{% if page.nav == 'background' %} is-active{% endif %}" href="{{ '/background/' | relative_url }}">Background</a>
+          <a class="nav-link{% if page.nav == 'contact' %} is-active{% endif %}" href="{{ '/contact/' | relative_url }}">Contact</a>
+        </nav>
+      </header>
+
+      <main class="page-shell">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <p>For the most current publication list, please see <a href="https://scholar.google.com/citations?user=ZIdS3d0AAAAJ&hl=en" target="_blank" rel="noreferrer">Google Scholar</a>.</p>
+      </footer>
+    </div>
+  </body>
+</html>
